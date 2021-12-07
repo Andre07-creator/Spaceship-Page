@@ -1,0 +1,50 @@
+body{
+    background-color:rgb(149, 154, 182);
+}
+header{
+    background-color:white;
+    padding-bottom: 40px;
+}
+h1{
+    text-align:center;
+    width:80%;
+    margin: 0px auto 0px auto;
+    border:2px black solid;
+    background-color:greenyellow
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    border: 2px black solid;
+    background-color:lightcoral
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding-left:30px;
+}
+.margens-total{
+    width: 90%;
+    margin: 0px auto 0px auto;
+    padding-top:40px;
+}
+thead tr th{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.table{
+    width: 90%;
+    margin: 0px auto 0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;  
+}
+.table td,.table th{
+    border: 2px solid black;
+  padding: 8px;
+}
+.formulario{
+    width:80%;
+    border:2px black solid;
+}
+footer{
+    padding-left: 40%;
+    padding-top: 40px;
+}
